@@ -2,22 +2,19 @@
 
 // UCAPAN WELCOME
 exports.welkam = () => {
-	return `Intro Dulu Yuk Biar Keren 🤙
+	return `Baru Join? Sv Wa Gw Inz Ganz,Svb Sebutnama
 
 📛 Nama : 
 🔞 Umur :
 🏙️ Askot :
+🚧Hobby :
 
-Semoga Kamu Senang Berada Disini
-Serta Jangan Lupa Untuk Membaca
-Dan Mematuhi Rules Yang Ada
+Jan Lupa Baca Desk
 `
 }
 
 // UCAPAN GOODBYE
 exports.goodbye = () => {
-	return `Tetap Putus Asa Jangan
-Semangat Dan Jadilah Beban
-Keluarga 🤙🗿
+	return `Asu Ni Anak Gk Niat Join
 `
 }

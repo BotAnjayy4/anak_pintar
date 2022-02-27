@@ -1,14 +1,14 @@
 {
-  "name": "RyuBotz",
+  "name": "BotMiskin",
   "version": "1.0.0",
-  "description": "RyuBotz Multi Device",
+  "description": "Jam Brapa gw on? ",
   "main": "index.js",
   "type": "commonjs",
   "scripts": {
     "start": "node index.js"
   },
   "keywords": [],
-  "author": "Ryuuka Team",
+  "author": "Doinya Adagaki Aki",
   "license": "MIT",
   "dependencies": {
     "@adiwajshing/baileys-md": "github:adiwajshing/baileys",
